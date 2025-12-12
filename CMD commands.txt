@@ -1,0 +1,232 @@
+                             ^
+                _______     ^^^
+               |xxxxxxx|  _^^^^^_
+               |xxxxxxx| | [][]  |
+            ______xxxxx| |[][][] |
+           |++++++|xxxx| | [][][]|      𝐏𝐚𝐓𝐚𝐫𝐘𝟎𝐭
+           |++++++|xxxx| |[][][] |      2006/2025
+           |++++++|_________ [][]| 
+           |++++++|=|=|=|=|=| [] |                    
+           |++++++|=|=|=|=|=|[][]|
+___________|++HH++|  _HHHH__|   _________   _________  _________
+         _______________   ______________      ______________
+__________________  ___________    __________________    ____________
+
+ _______           ________                   __      __  ______    __     
+|       \         |        \                 |  \    /  \/      \  |  \    
+| ▓▓▓▓▓▓▓\ ______  \▓▓▓▓▓▓▓▓ ______   ______  \▓▓\  /  ▓▓  ▓▓▓▓▓▓\_| ▓▓_   
+| ▓▓__/ ▓▓|      \   | ▓▓   |      \ /      \  \▓▓\/  ▓▓| ▓▓▓\| ▓▓   ▓▓ \  
+| ▓▓    ▓▓ \▓▓▓▓▓▓\  | ▓▓    \▓▓▓▓▓▓\  ▓▓▓▓▓▓\  \▓▓  ▓▓ | ▓▓▓▓\ ▓▓\▓▓▓▓▓▓  
+| ▓▓▓▓▓▓▓ /      ▓▓  | ▓▓   /      ▓▓ ▓▓   \▓▓   \▓▓▓▓  | ▓▓\▓▓\▓▓ | ▓▓ __ 
+| ▓▓     |  ▓▓▓▓▓▓▓  | ▓▓  |  ▓▓▓▓▓▓▓ ▓▓         | ▓▓   | ▓▓_\▓▓▓▓ | ▓▓|  \
+| ▓▓      \▓▓    ▓▓  | ▓▓   \▓▓    ▓▓ ▓▓         | ▓▓    \▓▓  \▓▓▓  \▓▓  ▓▓
+ \▓▓       \▓▓▓▓▓▓▓   \▓▓    \▓▓▓▓▓▓▓\▓▓          \▓▓     \▓▓▓▓▓▓    \▓▓▓▓ 
+                                                                           
+                                                                           
+                                                                           
+
+
+
+
+
+
+1. assoc – Displays or modifies file extension associations.
+2. at – Schedules commands and programs to run on a computer.
+3. attrib – Displays or changes file attributes.
+4. break – Sets or clears extended CTRL+C checking.
+5. cacls – Displays or modifies access control lists (ACLs) of files.
+6. call – Calls a batch file from another batch file.
+7. cd – Displays or changes the current directory.
+8. chdir – Same as cd, displays or changes current directory.
+9. chkdsk – Checks a disk and displays a status report.
+10. chkntfs – Displays or modifies automatic disk checking at startup.
+11. cls – Clears the command prompt screen.
+12. cmd – Starts a new instance of the command interpreter.
+13. color – Changes the console foreground and background colors.
+14. comp – Compares the contents of two files or sets of files.
+15. compact – Displays or alters file compression on NTFS partitions.
+16. convert – Converts FAT volumes to NTFS.
+17. copy – Copies one or more files to another location.
+18. date – Displays or sets the system date.
+19. diskcomp – Compares the contents of two floppy disks.
+20. diskcopy – Copies the contents of one floppy disk to another.
+21. del – Deletes one or more files.
+22. dir – Displays a list of files and subdirectories in a directory.
+23. driverquery – Displays a list of installed device drivers.
+24. echo – Displays messages or turns command echoing on/off.
+25. endlocal – Ends localization of environment changes in a batch file.
+26. erase – Deletes one or more files (same as del).
+27. eventcreate – Creates a custom event in the Windows event log.
+28. exit – Exits the command prompt or a batch file.
+29. fc – Compares two files or sets of files and displays differences.
+30. find – Searches for a text string in a file or files.
+31. findstr – Searches for strings in files using regular expressions.
+32. for – Runs a specified command for each file in a set.
+33. format – Formats a disk for use with Windows.
+34. fsutil – Displays or configures file system properties.
+35. ftype – Displays or modifies file types used in file associations.
+36. gpresult – Displays Group Policy settings applied to a user or computer.
+37. gpupdate – Updates Group Policy settings.
+38. goto – Directs the command prompt to a labeled line in a batch file.
+39. graftabl – Enables the display of extended characters in graphics mode.
+40. hostname – Displays the name of the current computer.
+41. icacls – Displays or modifies file and folder permissions.
+42. if – Performs conditional processing in batch programs.
+43. ipconfig – Displays IP configuration information for all adapters.
+44. label – Creates, changes, or deletes the volume label of a disk.
+45. md – Creates a new directory.
+46. mkdir – Same as md, creates a new directory.
+47. mklink – Creates symbolic links and hard links.
+48. mode – Configures system devices.
+49. more – Displays output one screen at a time.
+50. move – Moves files from one directory to another.
+51. msg – Sends a message to a user, session, or all sessions.
+52. mshta – Executes Microsoft HTML Applications.
+53. nbtstat – Displays NetBIOS over TCP/IP statistics.
+54. net – Manages network resources like users, shares, and services.
+55. netsh – Configures network interfaces, firewall, and routing.
+56. netstat – Displays active TCP connections and listening ports.
+57. nslookup – Displays DNS information for a host or domain.
+58. openfiles – Displays files opened remotely on a system.
+59. path – Displays or sets a search path for executable files.
+60. pause – Pauses execution of a batch file and displays a message.
+61. perfmon – Opens Performance Monitor for system monitoring.
+62. ping – Sends ICMP echo requests to test network connectivity.
+63. popd – Restores the previous directory saved by pushd.
+64. print – Prints a text file to a printer.
+65. prompt – Changes the command prompt appearance.
+66. pushd – Saves the current directory and changes to a new one.
+67. rd – Removes (deletes) a directory.
+68. recover – Recovers readable information from a damaged disk.
+69. reg – Manages Windows registry keys and values.
+70. regedit – Opens the Windows Registry Editor.
+71. regsvr32 – Registers or unregisters DLL and ActiveX controls.
+72. rem – Adds a comment in a batch file or command script.
+73. rename – Renames a file or directory.
+74. ren – Same as rename, renames a file or directory.
+75. replace – Replaces files in a directory with files from another directory.
+76. rmdir – Removes a directory (same as rd).
+77. robocopy – Robust file copy for files, directories, and trees.
+78. route – Displays or modifies the IP routing table.
+79. rundll32 – Runs functions stored in DLL files.
+80. runas – Executes a command as another user.
+81. scandisk – Checks and repairs disk errors (legacy for older Windows).
+82. schtasks – Schedules commands or programs to run at a specific time.
+83. sfc – System File Checker; scans and repairs protected system files.
+84. shutdown – Shuts down, restarts, or logs off the system.
+85. sort – Sorts input and displays it.
+86. start – Starts a separate window to run a specified program or command.
+87. subst – Associates a path with a drive letter.
+88. systeminfo – Displays detailed configuration information about the computer.
+89. taskkill – Terminates processes by process ID or image name.
+90. tasklist – Displays a list of currently running processes.
+91. time – Displays or sets the system time.
+92. timeout – Pauses the command processor for a specified time.
+93. title – Sets the title for the command prompt window.
+94. tracert – Traces the route taken by packets to a destination.
+95. tree – Displays a graphical directory tree of a drive or path.
+96. type – Displays the contents of a text file.
+97. ver – Displays the Windows version.
+98. verify – Tells Windows whether to verify that files are written correctly to disk.
+99. vol – Displays a disk volume label and serial number.
+100. wmic – Windows Management Instrumentation Command-line tool.
+101. xcopy – Copies files and directory trees.
+102. arp – Displays or modifies the ARP cache.
+103. atmadm – Displays ATM interface statistics (rarely used now).
+104. bootcfg – Configures boot.ini file (older Windows).
+105. cipher – Displays or alters file encryption on NTFS partitions.
+106. finger – Displays information about users on a network (if installed).
+107. ftp – Transfers files to and from a remote computer.
+108. getmac – Displays the MAC address of network adapters.
+109. lodctr – Updates performance counters from a file.
+110. logoff – Logs off a user from a session.
+111. lpq – Displays the status of a print queue.
+112. lpr – Sends a file to a printer.
+113. rcp – Copies files to/from a remote computer (requires setup).
+114. sc – Communicates with the Service Control Manager and services.
+115. set – Displays, sets, or removes environment variables.
+116. setlocal – Begins localization of environment changes in a batch file.
+117. telnet – Connects to remote computers using Telnet protocol.
+118. wevtutil – Manages Windows event logs and publishers.
+119. w32tm – Configures Windows Time service.
+120. arp – Displays or modifies ARP cache.
+121. driverquery – Displays a list of installed device drivers.
+122. netsh wlan show profiles – Lists all saved Wi-Fi profiles.
+123. netsh wlan show profile name="ProfileName" key=clear – Shows Wi-Fi password.
+124. net user – Displays or modifies user accounts.
+125. net use – Connects or disconnects network drives.
+126. net localgroup – Displays or modifies local groups.
+127. fsutil fsinfo drives – Lists all drives.
+128. fsutil dirty query C: – Checks if a drive is marked as dirty.
+129. tasklist /svc – Shows services hosted by processes.
+130. tasklist /m – Shows modules loaded by processes.
+131. ipconfig /release – Releases IP address.
+132. ipconfig /renew – Renews IP address.
+133. ipconfig /flushdns – Clears DNS cache.
+134. ipconfig /displaydns – Displays DNS resolver cache.
+135. netstat -an – Displays all connections and listening ports.
+136. netstat -b – Shows executable involved in creating connections.
+137. ping -t – Continuously pings a host.
+138. tracert -d – Traces route without resolving addresses.
+139. pathping – Combines ping and tracert.
+140. net start – Starts a service.
+141. net stop – Stops a service.
+142. nslookup – Queries DNS servers.
+143. systeminfo | findstr /B /C:"OS Name" /C:"OS Version" – Shows OS info.
+144. driverquery /v – Displays verbose driver info.
+145. diskpart – Opens disk partitioning tool.
+146. list disk – Lists disks in diskpart.
+147. select disk 0 – Selects a disk in diskpart.
+148. list volume – Lists volumes in diskpart.
+149. select volume 1 – Selects a volume in diskpart.
+150. clean – Wipes selected disk in diskpart.
+151. create partition primary – Creates primary partition in diskpart.
+152. format fs=ntfs quick – Formats volume in diskpart.
+153. assign letter=X – Assigns drive letter in diskpart.
+154. exit – Exits diskpart.
+155. shutdown /r /t 0 – Immediately restarts the computer.
+156. shutdown /s /t 0 – Immediately shuts down the computer.
+157. shutdown /l – Logs off the current user.
+158. cipher /e – Encrypts files or folders.
+159. cipher /d – Decrypts files or folders.
+160. robocopy C:\Source D:\Dest /MIR – Mirrors directories.
+161. robocopy /COPYALL – Copies all file info including permissions.
+162. robocopy /MOV – Moves files, deletes after copying.
+163. robocopy /MOVE – Moves files and directories.
+164. robocopy /LOG:log.txt – Logs robocopy operations.
+165. netstat -r – Displays routing table.
+166. arp -a – Displays ARP table.
+167. route print – Displays routing table.
+168. netsh interface ip show config – Shows IP config for interfaces.
+169. wmic cpu get name – Displays CPU name.
+170. wmic memorychip get capacity – Displays RAM size.
+171. wmic diskdrive get size – Displays disk sizes.
+172. wmic logicaldisk get name, size, freespace – Displays drive info.
+173. wmic product get name, version – Lists installed programs.
+174. bcdedit – Manages Boot Configuration Data.
+175. bcdedit /enum – Lists boot entries.
+176. bcdedit /set {current} safeboot minimal – Sets safe mode boot.
+177. sfc /scannow – Scans and repairs system files.
+178. chkdsk C: /f /r – Checks disk and repairs errors.
+179. gpupdate /force – Forces group policy update.
+180. netstat -o – Shows process ID using connections.
+181. taskkill /PID 1234 /F – Forcefully kills a process by PID.
+182. taskkill /IM notepad.exe /F – Kills process by name.
+183. fsutil file createnew test.txt 1000 – Creates file of 1000 bytes.
+184. fsutil file queryfileid test.txt – Shows file ID.
+185. fsutil file setshortname test.txt TEST.TXT – Sets short name.
+186. fsutil reparsepoint query test.txt – Queries reparse point.
+187. net file – Lists open shared files.
+188. net file 123 /close – Closes open file by ID.
+189. net share – Lists shared resources.
+190. net share ShareName=C:\Path – Creates a network share.
+191. net view – Lists computers in network.
+192. net view \\ComputerName – Views shares on a computer.
+193. net send – Sends message to network users (legacy).
+194. systeminfo – Displays detailed system info.
+195. setx VAR "value" – Sets environment variable permanently.
+196. pathping google.com – Combines ping and tracert to analyze route.
+197. ping 127.0.0.1 – Tests local TCP/IP stack.
+198. net accounts – Displays password and login policies.
+199. cipher /w:C:\ – Wipes free space securely.
+200. driverquery /fo list /v – Verbose driver info in list format.
