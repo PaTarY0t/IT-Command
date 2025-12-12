@@ -1,0 +1,248 @@
+                             ^
+                _______     ^^^
+               |xxxxxxx|  _^^^^^_
+               |xxxxxxx| | [][]  |
+            ______xxxxx| |[][][] |
+           |++++++|xxxx| | [][][]|      𝐏𝐚𝐓𝐚𝐫𝐘𝟎𝐭
+           |++++++|xxxx| |[][][] |      2006/2025
+           |++++++|_________ [][]| 
+           |++++++|=|=|=|=|=| [] |                    
+           |++++++|=|=|=|=|=|[][]|
+___________|++HH++|  _HHHH__|   _________   _________  _________
+         _______________   ______________      ______________
+__________________  ___________    __________________    ____________
+
+ _______           ________                   __      __  ______    __     
+|       \         |        \                 |  \    /  \/      \  |  \    
+| ▓▓▓▓▓▓▓\ ______  \▓▓▓▓▓▓▓▓ ______   ______  \▓▓\  /  ▓▓  ▓▓▓▓▓▓\_| ▓▓_   
+| ▓▓__/ ▓▓|      \   | ▓▓   |      \ /      \  \▓▓\/  ▓▓| ▓▓▓\| ▓▓   ▓▓ \  
+| ▓▓    ▓▓ \▓▓▓▓▓▓\  | ▓▓    \▓▓▓▓▓▓\  ▓▓▓▓▓▓\  \▓▓  ▓▓ | ▓▓▓▓\ ▓▓\▓▓▓▓▓▓  
+| ▓▓▓▓▓▓▓ /      ▓▓  | ▓▓   /      ▓▓ ▓▓   \▓▓   \▓▓▓▓  | ▓▓\▓▓\▓▓ | ▓▓ __ 
+| ▓▓     |  ▓▓▓▓▓▓▓  | ▓▓  |  ▓▓▓▓▓▓▓ ▓▓         | ▓▓   | ▓▓_\▓▓▓▓ | ▓▓|  \
+| ▓▓      \▓▓    ▓▓  | ▓▓   \▓▓    ▓▓ ▓▓         | ▓▓    \▓▓  \▓▓▓  \▓▓  ▓▓
+ \▓▓       \▓▓▓▓▓▓▓   \▓▓    \▓▓▓▓▓▓▓\▓▓          \▓▓     \▓▓▓▓▓▓    \▓▓▓▓ 
+                                                                           
+                                                                           
+                                                                           
+
+
+
+
+
+
+System Information & Environment
+
+Get-ComputerInfo – Shows detailed system information.
+
+Get-Process – Lists running processes.
+
+Stop-Process – Stops a running process.
+
+Start-Process – Starts a new process.
+
+Get-Service – Lists system services.
+
+Start-Service – Starts a service.
+
+Stop-Service – Stops a service.
+
+Restart-Service – Restarts a service.
+
+Get-EventLog – Retrieves Windows event logs.
+
+Clear-EventLog – Clears event logs.
+
+Get-HotFix – Shows installed Windows updates.
+
+Get-Date – Displays current date/time.
+
+Set-Date – Sets the system date/time.
+
+Get-Location – Shows current directory.
+
+Set-Location – Changes directory.
+
+Get-ChildItem – Lists files and folders.
+
+Get-Item – Retrieves a specific file/folder.
+
+Copy-Item – Copies a file/folder.
+
+Move-Item – Moves a file/folder.
+
+Remove-Item – Deletes a file/folder.
+
+
+2. Files & Folders
+
+New-Item – Creates a file/folder.
+
+Test-Path – Checks if a file/folder exists.
+
+Rename-Item – Renames a file/folder.
+
+Get-Content – Reads file content.
+
+Set-Content – Writes content to a file.
+
+Add-Content – Appends content to a file.
+
+Clear-Content – Clears file content.
+
+Get-ACL – Gets file/folder permissions.
+
+Set-ACL – Sets file/folder permissions.
+
+Compress-Archive – Compresses files/folders.
+
+Expand-Archive – Extracts zip files.
+
+Out-File – Writes output to a file.
+
+Get-FileHash – Calculates file hash.
+
+Resolve-Path – Gets full path of file/folder.
+
+Split-Path – Returns part of a path.
+
+Join-Path – Combines paths.
+
+Measure-Object – Measures file/folder size.
+
+Compare-Object – Compares two files/folders.
+
+Get-ItemProperty – Gets file/folder properties.
+
+Set-ItemProperty – Sets file/folder properties.
+
+
+3. Users & Security
+
+Get-LocalUser – Lists local users.
+
+New-LocalUser – Creates a new local user.
+
+Remove-LocalUser – Deletes a local user.
+
+Rename-LocalUser – Renames a user.
+
+Get-LocalGroup – Lists local groups.
+
+Add-LocalGroupMember – Adds user to a group.
+
+Remove-LocalGroupMember – Removes user from a group.
+
+Get-LocalGroupMember – Lists members of a group.
+
+Set-LocalUser – Modifies user properties.
+
+Get-Credential – Prompts for username/password.
+
+
+4. Network & Connectivity
+
+Test-Connection – Ping a host.
+
+Get-NetIPAddress – Shows IP addresses.
+
+New-NetIPAddress – Configures IP address.
+
+Remove-NetIPAddress – Deletes IP address.
+
+Get-NetAdapter – Lists network adapters.
+
+Enable-NetAdapter – Enables a network adapter.
+
+Disable-NetAdapter – Disables a network adapter.
+
+Get-NetRoute – Shows routing table.
+
+New-NetRoute – Adds a route.
+
+Remove-NetRoute – Deletes a route.
+
+Test-NetConnection – Tests network connectivity.
+
+Get-DnsClientServerAddress – Shows DNS servers.
+
+Set-DnsClientServerAddress – Sets DNS servers.
+
+Resolve-DnsName – Performs DNS lookup.
+
+Get-NetFirewallRule – Shows firewall rules.
+
+New-NetFirewallRule – Creates a firewall rule.
+
+Remove-NetFirewallRule – Deletes a firewall rule.
+
+Enable-NetFirewallRule – Enables a firewall rule.
+
+Disable-NetFirewallRule – Disables a firewall rule.
+
+
+Get-NetTCPConnection – Lists TCP connections.
+
+5. Processes & Jobs
+
+Get-Job – Lists background jobs.
+
+Start-Job – Starts a background job.
+
+Stop-Job – Stops a background job.
+
+Receive-Job – Gets job results.
+
+Wait-Job – Waits for a job to finish.
+
+Remove-Job – Deletes a background job.
+
+Get-Process – Lists processes.
+
+Stop-Process – Kills a process.
+
+Start-Process – Starts a process.
+
+Wait-Process – Waits for a process to exit.
+
+
+6. PowerShell Scripting & Objects
+
+Get-Command – Lists all cmdlets/functions.
+
+Get-Help – Displays help for a cmdlet.
+
+Update-Help – Updates help files.
+
+Get-Alias – Lists aliases.
+
+Set-Alias – Creates a new alias.
+
+Import-Module – Loads a module.
+
+Remove-Module – Unloads a module.
+
+Get-Module – Lists loaded modules.
+
+New-Object – Creates a new .NET object.
+
+Get-Member – Shows object properties/methods.
+
+Select-Object – Selects object properties.
+
+Sort-Object – Sorts objects.
+
+Where-Object – Filters objects.
+
+ForEach-Object – Performs actions on objects.
+
+Measure-Object – Measures properties of objects.
+
+Compare-Object – Compares objects.
+
+Group-Object – Groups objects by property.
+
+Export-Csv – Exports objects to CSV.
+
+Import-Csv – Imports CSV as objects.
+
+ConvertTo-Json – Converts objects to JSON
